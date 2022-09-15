@@ -12,5 +12,5 @@ Once you have both of these installed just run the display.py file and the demo 
 
 ## Group Member
 - [Justin Rosner](https://github.com/justinrosner)
-- [Janek Wolos]()
+- [Jan Wolos](https://github.com/wolosj)
 - [Justin Prez](https://github.com/justinprez)
